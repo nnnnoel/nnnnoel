@@ -9,4 +9,4 @@
 ![Typescript](https://img.shields.io/badge/Typescript-0054FF)
 ![Nodejs](https://img.shields.io/badge/Nodejs-43853d)
 
-[![noel's github stats](https://github-readme-stats.vercel.app/api?username=chequerNoel)](https://github.com/chequerNoel)
+[![noel's github stats](https://github-readme-stats.vercel.app/api?username=nnnnoel)](https://github.com/nnnnoel)
