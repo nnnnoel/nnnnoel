@@ -10,3 +10,4 @@
 ![Nodejs](https://img.shields.io/badge/Nodejs-43853d)
 
 [![noel's github stats](https://github-readme-stats.vercel.app/api?username=nnnnoel)](https://github.com/nnnnoel)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nnnnoel&layout=compact)](https://github.com/nnnnoel)
