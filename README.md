@@ -4,7 +4,7 @@
 - :office: CHEQUER Inc. QueryPie ~~FrontEnd~~ Engine Team Developer (2020.07 ~ ing) React, Nodejs, .Net Core
 
 ### 🔭 기술스택
-![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
 ![Javascript](https://img.shields.io/badge/Javascript-FFE400?logo=javascript&logoColor=white&style=flat)
 ![Typescript](https://img.shields.io/badge/Typescript-0054FF?logo=typescript&logoColor=white&style=flat)
 ![Nodejs](https://img.shields.io/badge/Nodejs-43853d?logo=node.js&logoColor=white&style=flat)
