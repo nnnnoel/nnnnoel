@@ -8,7 +8,7 @@
 ![Javascript](https://img.shields.io/badge/Javascript-FFE400)
 ![Typescript](https://img.shields.io/badge/Typescript-0054FF)
 ![Nodejs](https://img.shields.io/badge/Nodejs-43853d)
-![.NET Core](https://img.shields.io/badge/-.NET%20Core-4B29CD?logo=dotnet&logoColor=white&style=flat)
+![.NET Core](https://img.shields.io/badge/-.NET%20Core-512BD4?logo=dotnet&logoColor=white&style=flat)
 
 [![noel's github stats](https://github-readme-stats.vercel.app/api?username=nnnnoel)](https://github.com/nnnnoel)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nnnnoel&layout=compact)](https://github.com/nnnnoel)
