@@ -1,8 +1,8 @@
 ### Noel Kim
 - :school: 한세사이버보안고등학교 해킹보안과 졸업 (2017.03 ~ 2020.02)
 - :office: Actbase LLC. FrontEnd Developer (2020.03 ~ 2020.06) React, React-Native
-- :office: CHEQUER Inc. QueryPie ~~FrontEnd~~ ~~Engine~~ FrontEnd Engineer (2020.07 ~ 2022.09) React, Nodejs, .Net Core
-- :office: QuotaLab Inc. QuotaBook FrontEnd Engineer (2022.10 ~ ing) React
+- :office: CHEQUER Inc. QueryPie Software Engineer (2020.07 ~ 2022.09) React, Nodejs, .Net Core, ANTLR
+- :office: QuotaLab Inc. QuotaBook FrontEnd Engineer (2022.10 ~ ing) React, ANTLR
 
 ### 🔭 기술스택
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
