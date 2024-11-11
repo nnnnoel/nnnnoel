@@ -1,10 +1,11 @@
 ### Noel Kim
-- :school: 한세사이버보안고등학교 해킹보안과 졸업 (2017.03 ~ 2020.02)
-- :office: AIDAT Inc. FrontEnd Developer (2019.10 ~ 2020.02) React, React-Native
-- :office: Actbase LLC. FrontEnd Developer (2020.03 ~ 2020.06) React, React-Native
+- :school: Hacking Security, Hansei Cyber Security Highschool (2017.03 ~ 2020.02)
+- :office: AIDAT Inc. FrontEnd Engineer (2019.10 ~ 2020.02) React, React-Native
+- :office: Actbase LLC. FrontEnd Engineer (2020.03 ~ 2020.06) React, React-Native
 - :office: CHEQUER Inc. QueryPie Software Engineer (2020.07 ~ 2022.09) React, Node.JS, .Net Core, ANTLR, Docker, Kubernetes
 - :office: QuotaLab Inc. QuotaBook FrontEnd Engineer (2022.10 ~ 2023.11) React, ANTLR, Docker, Kubernetes
 - :office: V-IC Inc. FrontEnd Engineer (2023.11 ~ 2024.03) React, Terraform, Docker
+- :office: Prex Korea Inc. FrontEnd Engineer (2024.11 ~ ) React, Docker
 
 ### 🔭 기술스택
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
