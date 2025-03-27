@@ -1,7 +1,7 @@
 ### Noel Kim
 - :school: Hacking Security, Hansei Cyber Security Highschool (2017.03 ~ 2020.02)
-- :office: AIDAT Inc. FrontEnd Engineer (2019.10 ~ 2020.02, Closed) React, React-Native
-- :office: Actbase LLC. FrontEnd Engineer (2020.03 ~ 2020.06, Closed) React, React-Native
+- :office: AIDAT Inc. FrontEnd Engineer (2019.10 ~ 2020.02, **Closed**) React, React-Native
+- :office: Actbase LLC. FrontEnd Engineer (2020.03 ~ 2020.06, **Closed**) React, React-Native
 - :office: QueryPie Inc. QueryPie Software Engineer (2020.07 ~ 2022.09) React, Node.JS, .Net Core, ANTLR, Docker, Kubernetes
 - :office: QuotaLab Inc. QuotaBook FrontEnd Engineer (2022.10 ~ 2023.11) React, ANTLR, Docker, Kubernetes
 - :office: V-IC Inc. FrontEnd Engineer (2023.11 ~ 2024.03) React, Terraform, Docker
