@@ -1,4 +1,5 @@
 ### Noel Kim
+
 - :school: Hacking Security, Hansei Cyber Security Highschool (2017.03 ~ 2020.02)
 - :office: AIDAT Inc. FrontEnd Engineer (2019.10 ~ 2020.02, **Closed**) React, React-Native
 - :office: Actbase LLC. FrontEnd Engineer (2020.03 ~ 2020.06, **Closed**) React, React-Native
@@ -7,7 +8,8 @@
 - :office: V-IC Inc. FrontEnd Engineer (2023.11 ~ 2024.03) React, Terraform, Docker
 - :office: Prex Technologies Inc. FrontEnd Engineer (2024.11 ~ ) React, Docker
 
-### 🔭 기술스택
+### 🔭 Technologies
+
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
 ![Javascript](https://img.shields.io/badge/Javascript-FFE400?logo=javascript&logoColor=white&style=flat)
 ![Typescript](https://img.shields.io/badge/Typescript-0054FF?logo=typescript&logoColor=white&style=flat)
@@ -16,3 +18,7 @@
 
 [![noel's github stats](https://github-readme-stats.vercel.app/api?username=nnnnoel)](https://github.com/nnnnoel)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nnnnoel&layout=compact)](https://github.com/nnnnoel)
+
+### Opensource Contributes
+
+[See Pull Requests](https://github.com/pulls?q=is%3Apr+author%3Annnnoel)
