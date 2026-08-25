@@ -7,7 +7,7 @@
 - :office: QuotaLab Inc. QuotaBook FrontEnd Engineer (2022.10 ~ 2023.11) React, ANTLR, Docker, Kubernetes
 - :office: V-IC Inc. FrontEnd Engineer (2023.11 ~ 2024.03) React, Terraform, Docker
 - :office: Prex Technologies Inc. FrontEnd Engineer (2024.11 ~ 2025.01) React, Kotlin, Swift, Docker
-- :office: V-IC Inc. FrontEnd Engineer (2025.02 ~ ) React, Rust, Kotlin, Terraform, Docker
+- :office: V-IC Inc. FrontEnd Engineer (2025.02 ~ ) React, Rust, Kotlin, Go, Terraform, Docker, Kubernetes
 
 ### 🔭 Technologies
 
