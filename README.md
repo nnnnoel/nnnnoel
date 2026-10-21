@@ -5,9 +5,9 @@
 - :office: Actbase LLC. FrontEnd Engineer (2020.03 ~ 2020.06, **Closed**) React, React-Native, Objective-C, Java
 - :office: QueryPie Inc. QueryPie Software Engineer (2020.07 ~ 2022.09) React, Node.JS, .Net Core, ANTLR, Docker, Kubernetes
 - :office: QuotaLab Inc. QuotaBook FrontEnd Engineer (2022.10 ~ 2023.11) React, ANTLR, Docker, Kubernetes
-- :office: V-IC Inc. FrontEnd Engineer (2023.11 ~ 2024.03) React, Terraform, Docker
-- :office: Flipster. FrontEnd Engineer (2024.11 ~ 2026.01) React, Kotlin, Swift, Docker
-- :office: V-IC Inc. FrontEnd Engineer (2026.02 ~ ) React, Rust, Kotlin, Go, Terraform, Docker, Kubernetes
+- :office: V-IC Inc. Frontend Engineer (2023.11 ~ 2024.03) React, Terraform, Docker
+- :office: Flipster. Frontend Engineer (2024.11 ~ 2026.01) React, Kotlin, Swift, Docker
+- :office: V-IC Inc. Product Engineer (2026.02 ~ ) React, Rust, Kotlin, Go, Terraform, Docker, Kubernetes
 
 ### 🔭 Technologies
 
