@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/card.svg?t=1793603745" alt="Noel Kim: GitHub contributions, AI tokens burned, merged open source PRs, top languages" width="880" />
+  <img src="assets/card.svg?t=1793625437" alt="Noel Kim: GitHub contributions, AI tokens burned, merged open source PRs, top languages" width="880" />
 </p>
 
 ### Experience
