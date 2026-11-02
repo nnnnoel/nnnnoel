@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/card.svg?t=0" alt="Noel Kim: GitHub contributions, AI tokens burned, merged open source PRs, top languages" width="880" />
+</p>
+
 ### Noel Kim
 
 - :school: Hacking Security, Hansei Cyber Security Highschool (2017.03 ~ 2020.02)
@@ -16,9 +20,6 @@
 ![Typescript](https://img.shields.io/badge/Typescript-0054FF?logo=typescript&logoColor=white&style=flat)
 ![Nodejs](https://img.shields.io/badge/Node.js-43853d?logo=node.js&logoColor=white&style=flat)
 ![.NET Core](https://img.shields.io/badge/-.NET%20Core-512BD4?logo=dotnet&logoColor=white&style=flat)
-
-[![noel's github stats](https://github-readme-stats.vercel.app/api?username=nnnnoel)](https://github.com/nnnnoel)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nnnnoel&layout=compact)](https://github.com/nnnnoel)
 
 ### Opensource Contributes
 
