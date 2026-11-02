@@ -11,8 +11,8 @@
 | 2023.11 – 2024.03 | V-IC Inc. | Frontend Engineer | React, Terraform |
 | 2022.10 – 2023.11 | QuotaLab Inc. | Frontend Engineer | React, ANTLR, Kubernetes |
 | 2020.07 – 2022.09 | QueryPie Inc. | Software Engineer | React, Node.js, .NET Core, ANTLR, Kubernetes |
-| 2020.03 – 2020.06 | Actbase LLC. | Software Engineer | React, React Native, Objective-C, Java |
-| 2019.10 – 2020.02 | AIDAT Inc. | Software Engineer | React, React Native, Objective-C, Java |
+| 2020.03 – 2020.06 | Actbase LLC. <sub>(closed)</sub> | Software Engineer | React, React Native, Objective-C, Java |
+| 2019.10 – 2020.02 | AIDAT Inc. <sub>(closed)</sub> | Software Engineer | React, React Native, Objective-C, Java |
 
 Hansei Cyber Security High School, Hacking Security (2017 – 2020)
 
